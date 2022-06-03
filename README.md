@@ -1,9 +1,9 @@
 
   
-# 👋 Hello World!  Neera Bhardwaj is here!
+# 👋 Hello World!  Neeraj Bhardwaj is here!
 
 <div width=100% align="center">
-  <img  alt="Person coding gif" src="https://github.com/Neera BhardwajTa/Neera Bhardwajta/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="300" /> 
+  <img  alt="Person coding gif" src="https://github.com/rebel216/rebel216/blob/main/assets/0_K2WLMTExLyida7OR(1).gif" height="250" width="300" /> 
  <div width="50%">
  
 </div>
@@ -52,17 +52,17 @@
 
   <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Neera Bhardwajta&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Neera Bhardwaj github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neera Bhardwajta&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=rebel216&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Neeraj Bhardwaj github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebel216ta&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" />
 </div>
-  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neera Bhardwajta&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=rebel216&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Nazarov Asadbek" /></div>
 
 
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Neera Bhardwajta}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rebel216}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
