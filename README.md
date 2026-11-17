@@ -6,7 +6,7 @@
 
 **AI & Machine Learning Engineer · Senior Full-Stack Developer · Applied AI Builder**
 
-🎓 **MSc Artificial Intelligence (Distinction)** · 📍 **Nottingham, UK** · 💼 **Open to opportunities**
+🎓 **MSc Artificial Intelligence (Distinction)** · 📍 **Nottingham, UK** · 💼 **Working at Hazelcard as Founding Engineer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C9D7&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;From+ML+research+to+real-world+systems;Computer+Vision+%7C+LLMs+%7C+Cloud;Full-Stack+Engineering+%2B+Applied+AI" alt="Animated introduction" />
 
