@@ -134,8 +134,8 @@ Punjab Technical University, India
 ## 📊 GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rebel216&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebel216&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Languages in public repositories" />
+<img src="https://github-stats-extended.vercel.app/api?username=rebel216&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub activity statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rebel216&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Languages in public repositories" />
 
 <img src="https://streak-stats.demolab.com?user=rebel216&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
